@@ -54,10 +54,19 @@ li {
 .info {
     display: flex;
     flex-wrap: nowrap;
-    flex-direction: row-reverse;
-    align-items: ;
+    flex-direction: row;
+    align-items: center;
     flex-wrap: wrap;
-    justify-content: ;
+    justify-content: flex-start;
+}
+
+.h1_info {
+    display: flex;
+    margin-top: 0;
+    margin-left: 8%;
+    margin-right: 25%;
+    margin-bottom: 0;
+    flex-wrap: wrap;
 }
 
 
