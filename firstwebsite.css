@@ -1,3 +1,4 @@
+/* header */
 .headercontainer {
     display: flex;
     flex-wrap: wrap;
@@ -39,3 +40,25 @@ li {
 .left {
     font-size: larger;
 }
+/* header */
+
+/*info*/
+.infocontainer {
+    display: flex;
+    font-family:'Helvetica', Tahoma, Geneva, sans-serif;
+    color: white;
+    background-color: #1F2937;
+
+}
+
+.info {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+    align-items: ;
+    flex-wrap: wrap;
+    justify-content: ;
+}
+
+
+/*info*/
