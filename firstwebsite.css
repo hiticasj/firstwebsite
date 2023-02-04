@@ -153,3 +153,9 @@ li {
 
 }
 /*cards*/
+
+/*quote*/
+.quotecontainer {
+    display: flex;
+}
+/*quote*/
