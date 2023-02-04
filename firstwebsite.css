@@ -122,7 +122,14 @@ li {
 }
 
 .card {
-    border-color: #3882F6;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
 
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
 }
 /*cards*/
