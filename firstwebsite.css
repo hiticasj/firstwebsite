@@ -157,5 +157,36 @@ li {
 /*quote*/
 .quotecontainer {
     display: flex;
+    font-size: 36px;
+    flex-direction: column;
+    font-style: italic;
+    font-family:'Helvetica', Tahoma, Geneva, sans-serif;
+    background-color: #E5E7EB;
+    width: 100%;
+    font-weight: 100;
 }
+
+.qutecontainer {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 150px;
+}
+
+
+.author {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    font-family:'Helvetica', Tahoma, Geneva, sans-serif;
+    margin-bottom: 150px;
+}
+
+.authorcontainer {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+    margin-bottom: 150px;
+}
+
 /*quote*/
