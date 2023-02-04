@@ -187,5 +187,49 @@ li {
     max-width: 100%;
     margin-bottom: 150px;
 }
-
 /*quote*/
+
+/*signup*/
+.signupcontainer {
+    font-family:'Helvetica', Tahoma, Geneva, sans-serif;
+    background-color: #3882F6;
+    color: white;
+    display: flex; 
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 30px;
+    font-size: 24px;
+    font-weight: 550;
+    padding-left: 50px;
+    padding-top: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.signupcontainer2 {
+    background-color: #3882F6;
+    color: white;
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.button2 {
+    border-color: #E5E7EB;
+    border-style: solid;
+    background-color: #3882F6;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    margin-left: 350px;
+}
+/*signup*/
