@@ -4,7 +4,6 @@
     flex-wrap: wrap;
     flex-direction: column;
     font-family:'Helvetica', Tahoma, Geneva, sans-serif;
-    flex: auto;
 }
 
 .header {
@@ -25,7 +24,7 @@ ul {
     display: flex;
      align-self: flex-end;
      gap: 20px;
-     flex: auto;
+     
 }
 
 a {
@@ -39,7 +38,6 @@ li {
     display: flex; 
     margin-bottom: 15px;
     margin-top: 15px;
-    flex: auto;
 }
 
 .left {
@@ -53,9 +51,7 @@ li {
     font-family:'Helvetica', Tahoma, Geneva, sans-serif;
     color: white;
     background-color: #1F2937;
-    flex: auto;
     justify-content: space-around;
-    flex: auto;
 }
 
 .info {
@@ -65,31 +61,29 @@ li {
     align-items: center;
     flex-wrap: wrap;
     justify-content: flex-start;
-    flex: auto;
 }
 
 .h1_info {
     display: flex;
     margin-top: 0;
-    margin-left: 27%;
+    margin-left: 33%;
     margin-right: 20%;
     margin-bottom: 0;
     flex-wrap: wrap;
     font-size: 48px;
-    flex: auto;
+    
 }
 
 .para {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 27%;
-    margin-right: ;
+    margin-left: 33%;
+    margin-right: 30%;
     font-size: 18px;
-    flex: auto;
 }
 
 .button {
-    margin-left: 8%;
+    margin-left: 33%;
     margin-bottom: 13%;
     background-color: #3882F6;
     color: white;
@@ -100,14 +94,13 @@ li {
     padding-left: 20px;
     padding-top: 4px;
     padding-bottom: 4px;
-    
 }
 
 .logosocial {
-    margin-right: 170px;
+    margin-right: 270px;
     display: flex;
     flex-wrap: wrap;
-    flex: auto;
+    
 }
 
 /*info*/
@@ -116,7 +109,7 @@ li {
 .container {
     display: flex;
     flex-direction: column;
-    flex: auto;
+    
 }
 
 .cardinfo {
@@ -125,7 +118,7 @@ li {
     justify-content: center;
     font-size: 36px;
     font-weight: bolder;
-    flex: auto;
+    
 }
 
 .card {
